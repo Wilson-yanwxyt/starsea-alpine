@@ -5,4 +5,4 @@ alpine 使用清华apk 包管理的基础镜像
 2、cd starsea-alpine    
 3、chmod +x build-image.sh    
 4、./build-image.sh    
-#可以使用docker images 查看生成的基础镜像
+# 可以使用docker images 查看生成的基础镜像
